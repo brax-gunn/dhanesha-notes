@@ -1,0 +1,52 @@
+
+
+@font-face {
+    font-family: Glory; src: url('Glory-Regular.ttf');
+}
+
+
+
+
+a{
+    font-family: Glory;
+    font-size: 16px;
+    font-style: bold;
+   
+}
+
+
+
+h1,h2{
+font-family: Glory;
+font-size: 24px;
+    font-style: bold;
+}
+
+
+h2{
+font-family: Glory;
+font-size: 20px;
+    font-style: bold;
+}
+
+
+h4{
+font-family: Glory;
+font-size: 18px;
+    font-style: bold;
+}
+
+
+.w3-bar-item{
+    color:white;
+
+}
+
+
+.w3-button{
+font-family: Glory;
+    font-size: 16px;
+    font-style: bold;
+    margin-top: 10px;
+}
+
